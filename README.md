@@ -1,7 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
-<a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=1000&height=50&backgroundColor=%230a0000&backgroundOpacity=0&vCenter=false&cursorStyle=blank&lines=%5B%7B%22text%22%3A%22Olá, meu nome é Victoria Monteiro %21%22%2C%22color%22%3A%22%23f99fbf%22%2C%22fontSize%22%3A20%2C%22typingSpeed%22%3A0.25%2C%22deleteSpeed%22%3A0.25%2C%22fontWeight%22%3A%22500%22%7D%5D" alt="Typing SVG" /></a>
-<h1 align="left">
- 
+<a href="https://github.com/whiteSHADOW1234/TypingSVG">
+  <img src="https://typingsvg.vercel.app/api/svg?lines=Olá,+meu+nome+é+Victoria+Monteiro!&fontSize=24&color=f99fbf&width=900&height=60&backgroundColor=00000000&cursorStyle=blank" alt="Typing SVG" />
+</a>
 
 <!--
 **vicmontes279/vicmontes279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
